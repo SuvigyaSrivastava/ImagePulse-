@@ -33,7 +33,7 @@ The system calculates the perimeter of images (`2 * [Height + Width]`) and simul
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ankit-0369/kirana.club-assignment.git
+   git clone https://github.com/SuvigyaSrivastava/ImagePulse-.git
    cd retail_pulse_project
    ```
 
