@@ -5,7 +5,7 @@ This project implements a backend service that processes thousands of images col
 
 ## Project Repo Url
   ```bash
-  https://github.com/ankit-0369/kirana.club-assignment
+ https://github.com/SuvigyaSrivastava/ImagePulse-.git
   ```
 
 ## Project Description
